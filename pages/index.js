@@ -1,5 +1,12 @@
+import MasterPage from '../components/MasterPage';
+
 const Index = () => (
-    <p>hola mundo</p>
+    
+    <MasterPage>
+        <div>
+            <p>hola mundo</p>
+        </div>
+    </MasterPage>
 )
 
 export default Index;

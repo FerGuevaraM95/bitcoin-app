@@ -1,5 +1,11 @@
+import MasterPage from '../components/MasterPage';
+
 const About = () => (
-    <p>hola desde about</p>
+    <MasterPage>
+        <div>
+            <p>hola desde about</p>
+        </div>
+    </MasterPage>
 )
 
 export default About;
