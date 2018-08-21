@@ -2,7 +2,7 @@ import Event from '../Event';
 
 const Events = (props) => {
     const eventsId = Object.keys(props.events);
-    console.log(props.events);
+    // console.log(props.events);
 
     return (
         <div className="list-group">
