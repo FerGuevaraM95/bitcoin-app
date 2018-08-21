@@ -52,7 +52,13 @@ var MasterPage = function MasterPage(props) {
       fileName: _jsxFileName,
       lineNumber: 14
     }
-  }), props.children);
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
+    className: "container mt-4",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    }
+  }, props.children));
 };
 
 /* harmony default export */ __webpack_exports__["a"] = (MasterPage);
@@ -1104,12 +1110,28 @@ var About = function About() {
       fileName: _jsxFileName,
       lineNumber: 5
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h2", {
+    className: "text-center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
     }
-  }, "hola desde about")));
+  }, "Sobre nosotros"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    }
+  }, "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque qui, recusandae illum repellendus deserunt soluta delectus molestiae alias est ex? Quo, perferendis minima. Qui modi tenetur dolore fuga explicabo. Possimus, et animi. Magni laudantium distinctio temporibus commodi. Error unde quia expedita repellat, recusandae optio ut animi nihil eaque ullam harum magni in maxime modi. Illum optio quis pariatur molestiae? Odio hic earum magnam! Ab ipsam molestiae sint sed iusto, perferendis ducimus aut nesciunt ex sit excepturi architecto voluptates molestias laudantium."), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    }
+  }, "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima consequuntur delectus aliquam nisi architecto esse quia facilis libero quibusdam magni, doloremque cupiditate reiciendis at maxime porro, illum harum nobis veritatis? Delectus est, tempora vero molestiae debitis voluptas error ex cum."), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    }
+  }, "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium perferendis minima iste rerum quaerat sequi soluta culpa repudiandae. Nemo aut iste dolores necessitatibus, odit explicabo voluptates? Dolores quod cum nulla vitae quas.")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (About);
